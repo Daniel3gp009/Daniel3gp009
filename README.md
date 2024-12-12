@@ -1,6 +1,6 @@
 ## Olá! me chamo Daniel 👋
 
-- 🌱 Eu estou estudando html, css e javascript
+- 🌱 Eu estou estudando Sistemas de informação
 - 😄 Pronouns: ele/dele
 
 
